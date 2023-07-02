@@ -1,2 +1,7 @@
-# AddressBook
-AddressBook App
+This is an Address Book app where you can add/remove key-pair values of a Name and Phone Number...
+
+
+
+
+App is unfinished, still working on a few extras , i hope this was informative. :) 
+
